@@ -1,0 +1,12 @@
+frontend/.angular/
+frontend/node_modules/
+frontend/dist/*
+package-lock.json
+backend/__debug*
+caddy_data/
+redis_data/
+channel_data/*
+caddy_config/
+data/kvrocks.sock
+.env
+.ds_store
